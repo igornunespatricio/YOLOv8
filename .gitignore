@@ -127,7 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.yolov8-venv
+.yolov8-venv/
 
 # Spyder project settings
 .spyderproject
